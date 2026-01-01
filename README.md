@@ -1,3 +1,13 @@
+> **Note on AI Usage**
+>
+> This document was generated with the help of AI.
+>
+> The value here is not “AI wrote it for me,” but *how* AI was used. Tools like ChatGPT are only as good as the prompts, constraints, and judgment behind them. This output reflects deliberate prompting, iterative refinement, and engineering intent.
+>
+> AI did not replace thinking. It accelerated it.
+
+---
+
 # The Definitive Guide to Building a World-Class Git Commit History
 
 ## Introduction: Why Commit History Matters
